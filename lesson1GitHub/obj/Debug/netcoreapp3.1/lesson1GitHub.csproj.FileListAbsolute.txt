@@ -1,0 +1,13 @@
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.csprojAssemblyReference.cache
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.csproj.CoreCompileInputs.cache
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.AssemblyInfoInputs.cache
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.AssemblyInfo.cs
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.exe
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.deps.json
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.runtimeconfig.json
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.runtimeconfig.dev.json
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.dll
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\bin\Debug\netcoreapp3.1\lesson1GitHub.pdb
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.dll
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.pdb
+C:\Users\hacks\source\repos\lesson1GitHub\lesson1GitHub\obj\Debug\netcoreapp3.1\lesson1GitHub.genruntimeconfig.cache
